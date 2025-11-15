@@ -1,0 +1,5 @@
+{
+  "name": "CyberSec Suite",
+  "description": "A comprehensive suite for SOC teams to detect, triage, and respond to cybersecurity threats, featuring AI-powered analysis, incident management, and training modules.",
+  "requestFramePermissions": []
+}
